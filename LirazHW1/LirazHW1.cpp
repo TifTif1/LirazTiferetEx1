@@ -2,10 +2,28 @@
 //
 
 #include <iostream>
+#include "Queue.h"
 
 int main()
 {
     std::cout << "Hello World!\n";
+
+    Queue q;
+    initQueue(&q, 5);
+
+    enqueue(&q, 10);
+    enqueue(&q, 20);
+    enqueue(&q, 30);
+    enqueue(&q, 40);
+    enqueue(&q, 50);
+
+    std::cout << "Dequeue: " << dequeue(&q) << std::endl;  // Expected: 10
+    enqueue(&q, 60);
+
+    std::cout << "Dequeue: " << dequeue(&q) << std::endl;  // Expected: 20
+
+    cleanQueue(&q);
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
