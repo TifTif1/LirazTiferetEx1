@@ -4,6 +4,10 @@
 
 #define SIZE 10
 
+/*
+Function that reverse int array
+input: the array and it's size
+*/
 void reverse(int* nums, unsigned int size)
 {
 	Stack* s = new Stack;
@@ -18,6 +22,11 @@ void reverse(int* nums, unsigned int size)
 	}
 }
 
+/*
+Function that takes 10 number ,create array of them and reverse it
+input: none
+output: the new reversed array
+*/
 int* reverse10()
 {
 	int *nums = new int[SIZE];

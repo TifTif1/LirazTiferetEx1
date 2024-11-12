@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LirazHW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:LirazHW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48C6F7E9-4566-4D0E-990F-6A0C5D3EFA85}|LirazHW1.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Utils.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.cpp",
               "RelativeDocumentMoniker": "Utils.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.cpp",
               "RelativeToolTip": "Utils.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-12T16:37:28.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Utils.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.h",
-              "RelativeDocumentMoniker": "Utils.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.h",
-              "RelativeToolTip": "Utils.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-12T16:41:10.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "main2.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\main2.cpp",
               "RelativeDocumentMoniker": "main2.cpp",
@@ -96,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Stack.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Stack.cpp",
               "RelativeDocumentMoniker": "Stack.cpp",
@@ -108,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Stack.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Stack.h",
               "RelativeDocumentMoniker": "Stack.h",
@@ -120,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LinkedList.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LinkedList.h",
               "RelativeDocumentMoniker": "LinkedList.h",
@@ -132,31 +119,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "main1.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\main1.cpp",
               "RelativeDocumentMoniker": "main1.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\main1.cpp",
               "RelativeToolTip": "main1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T21:57:31.178Z"
+              "WhenOpened": "2024-11-11T21:57:31.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Queue.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.cpp",
               "RelativeDocumentMoniker": "Queue.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.cpp",
               "RelativeToolTip": "Queue.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T18:11:47.855Z"
+              "WhenOpened": "2024-11-10T18:11:47.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h",
+              "RelativeDocumentMoniker": "Queue.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h",
+              "RelativeToolTip": "Queue.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T18:14:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LirazHW1.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LirazHW1.cpp",
               "RelativeDocumentMoniker": "LirazHW1.cpp",
@@ -169,7 +171,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:41:10.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "LinkedList.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\LinkedList.cpp",
               "RelativeDocumentMoniker": "LinkedList.cpp",
@@ -178,18 +192,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-11T22:57:20.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Queue.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h",
-              "RelativeDocumentMoniker": "Queue.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\Principles\\LirazTiferetHw1\\LirazHW1\\Queue.h",
-              "RelativeToolTip": "Queue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-10T18:14:05.257Z"
             }
           ]
         }
