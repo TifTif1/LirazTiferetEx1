@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Stack.h"
 
-int main()
+int main2()
 {
 	Stack* s = new Stack;
 	initStack(s);

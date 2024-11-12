@@ -30,7 +30,7 @@ input: stack
 */
 void initStack(Stack* s)
 {
-	s->head = new StackNode;
+	s->head = NULL;
 }
 
 /*
@@ -53,5 +53,5 @@ output: true or false(Empty or not)
 */
 bool isEmpty(Stack* s)
 {
-	return (s->head);
+	return !(s->head);
 }
