@@ -9,8 +9,8 @@ typedef struct StackNode
 } StackNode;
 
 void addNode(StackNode** head, unsigned int num);
-void removeNode(StackNode** head);
+int removeNode(StackNode** head);
 
 
 
-#endif
+#endif#pragma once

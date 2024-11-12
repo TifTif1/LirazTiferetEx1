@@ -20,7 +20,11 @@ input: a queue
 */
 void cleanQueue(Queue* q)
 {
-	delete[] q->nums;
+	int i = 0;
+	for (i = 0; i < q->size; i++)
+	{
+		q->nums[i] = NULL;
+	}
 	q->size = 0;
 	q->last = 0;
 	q->first = 0;
