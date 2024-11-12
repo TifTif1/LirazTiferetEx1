@@ -20,6 +20,7 @@ void reverse(int* nums, unsigned int size)
 	{
 		nums[i] = pop(s);
 	}
+	delete(s);
 }
 
 /*
